@@ -1,0 +1,6 @@
+{
+  "name": "AI Mental Health Landing Page",
+  "description": "A beautiful, minimalist landing page for a technically driven mental health solution powered by AI. Features interactive mood tracking, micro-interactions, custom affirmation generators, and highly-optimized signup forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
